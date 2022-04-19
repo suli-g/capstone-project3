@@ -1,0 +1,31 @@
+[User Overview]
+    Total users registered:                                            4
+    Total tasks generated:                                             6
+[User Reports]
+    [admin]
+        Tasks assigned to user:                                        2
+        Percentage of all tasks assigned to user:                  33.33%
+        Percentage of assigned tasks completed:                    50.00%
+        Percentage of assigned tasks incomplete:                   50.00%
+        Percentage of assigned tasks overdue:                      50.00%
+
+    [suli-g]
+        Tasks assigned to user:                                        2
+        Percentage of all tasks assigned to user:                  33.33%
+        Percentage of assigned tasks completed:                     0.00%
+        Percentage of assigned tasks incomplete:                  100.00%
+        Percentage of assigned tasks overdue:                     100.00%
+
+    [slag]
+        Tasks assigned to user:                                        2
+        Percentage of all tasks assigned to user:                  33.33%
+        Percentage of assigned tasks completed:                     0.00%
+        Percentage of assigned tasks incomplete:                  100.00%
+        Percentage of assigned tasks overdue:                      50.00%
+
+    [coulda]
+        Tasks assigned to user:                                        0
+        Percentage of all tasks assigned to user:                   0.00%
+        Percentage of assigned tasks completed:                     0.00%
+        Percentage of assigned tasks incomplete:                    0.00%
+        Percentage of assigned tasks overdue:                       0.00%
